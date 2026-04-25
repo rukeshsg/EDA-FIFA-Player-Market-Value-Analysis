@@ -87,6 +87,7 @@ This indicates that player skill level is a key determinant of market value.
 
 ### 5.4 Relationship Analysis
 
+<p align="center">
 <a href="../images/distributions/rating_vs_value.png">
     <img src="../images/distributions/rating_vs_value.png" width="45%"/>
   </a>
