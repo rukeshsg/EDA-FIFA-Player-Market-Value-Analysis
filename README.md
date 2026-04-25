@@ -14,13 +14,13 @@
 
 <p align="center">
   <a href="https://eda-fifa-player-market-value-analysis-kc5bv9c83zlj97ymnfmzai.streamlit.app/" target="_blank">
-    <img src="images/dashboard/dashborad_app_page.pngg" width="900" alt="Live Dashboard Preview"/>
+    <img src="./images/dashboard/dashborad_app_page.png" width="900" alt="Live Dashboard Preview"/>
   </a>
 </p>
 
 <p align="center">
   🚀 Click the image above to explore the live interactive dashboard
-</p>gi
+</p>
 
 ---
 
@@ -164,4 +164,4 @@ Apache License 2.0
   <a href="https://www.linkedin.com/in/rukesh-s-g-6531bb3b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+</p>g
