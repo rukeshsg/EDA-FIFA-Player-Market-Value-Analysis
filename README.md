@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://eda-fifa-player-market-value-analysis-kc5bv9c83zlj97ymnfmzai.streamlit.app/" target="_blank">
-    <img src="./images/dashboard/dashborad_app_page.png" width="900"/>
+    <img src="./images/dashboard/dashborad_app_page.png" width="700"/>
   </a>
 </p>
 
