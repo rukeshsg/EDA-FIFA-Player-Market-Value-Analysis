@@ -1,21 +1,3 @@
-<p align="center">
-  <h1>⚽ FIFA Player Market Value Analysis</h1>
-  <p><b>Data Analysis • Visualization • Interactive Dashboard</b></p>
-</p>
-
-<p align="center">
-  <a href="https://eda-fifa-player-market-value-analysis-kc5bv9c83zlj97ymnfmzai.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀 Live Dashboard-Click Here-success?style=for-the-badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="./images/dashboard/dashboard_app_page.png" width="100%"/>
-</p>
-
-
-
-
 # ⚽ EDA: FIFA Player Market Value Analysis & Streamlit Dashboard
 
 <p align="center">
