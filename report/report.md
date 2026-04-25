@@ -63,7 +63,7 @@ The dataset shows significant variability in player valuation.
 
 <p align="center">
   <a href="../images/outliers/market_value_distribution.png">
-    <img src="../images/outliers/market_value_distribution.png" width="45%"/>
+    <img src="../images/distributions/market_value_distribution.png" width="45%"/>
   </a>
 
 The market value distribution is **right-skewed**, indicating that a small number of players have significantly higher value compared to the majority.
